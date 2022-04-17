@@ -300,5 +300,65 @@
       "lot": "20",
       "image": "https://www.mccleandesign.com/media/projects_hd/Robin/9272robindrive123a_i32411920x0_7_87.jpg"
     }
+    {
+      "id": 26,
+      "name": "1181 Hillside Road",
+      "location": "Taurus Hills",
+      "price": "$175,000,000",
+      "numberprice": "175000000",
+      "bed": "10",
+      "bath": "15",
+      "sqft": "45,000",
+      "lot": "25",
+      "image": "http://www.1181northhillcrest.com/photos/1181hillcrest/large/1181NorthHillcrest001.jpg"
+    },
+    {
+      "id": 27,
+      "name": "1175 Hillside Road",
+      "location": "Taurus Hills",
+      "price": "$155,990,000",
+      "numberprice": "155990000",
+      "bed": "12",
+      "bath": "20",
+      "sqft": "37,500",
+      "lot": "20",
+      "image": "https://www.mccleandesign.com/media/projects_hd/Opus/10_i30321920x0_7_78.jpg"
+    },
+    {
+      "id": 28,
+      "name": "908 Highland Drive",
+      "location": "Taurus Hills",
+      "price": "$215,000,000",
+      "numberprice": "215000000",
+      "bed": "20",
+      "bath": "25",
+      "sqft": "67,500",
+      "lot": "30",
+      "image": "https://plusdevelopmentgroup.com/wp-content/uploads/2019/05/908BelAirRoad078aDESATURATED_Website-New-1920x0-c-default.jpg"
+    },
+    {
+      "id": 29,
+      "name": "1169 Hillside Road",
+      "location": "Taurus Hills",
+      "price": "$205,990,000",
+      "numberprice": "205990000",
+      "bed": "17",
+      "bath": "21",
+      "sqft": "70,000",
+      "lot": "22",
+      "image": "http://1169hillcrest.com/photos/1169hillcrest/large/Hillcrest-2_opt2.jpg"
+    },
+    {
+      "id": 30,
+      "name": "9272 Eastside Road",
+      "location": "Taurus Hills",
+      "price": "$195,000,000",
+      "numberprice": "195000000",
+      "bed": "17",
+      "bath": "22",
+      "sqft": "55,500",
+      "lot": "20",
+      "image": "https://www.mccleandesign.com/media/projects_hd/Robin/9272robindrive123a_i32411920x0_7_87.jpg"
+    }
   ]
 }
