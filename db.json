@@ -166,7 +166,7 @@
       "bath": "21",
       "sqft": "72,120",
       "lot": "19",
-      "image": "https://www.theviewpointcollection.com/wp-content/uploads/2019/07/1-5-e1620771529510.jpg"
+      "image": "http://www.1181northhillcrest.com/photos/1181hillcrest/large/1181NorthHillcrest001.jpg"
     },
     {
       "id": 15,
@@ -190,7 +190,7 @@
       "bath": "35",
       "sqft": "100,000",
       "lot": "20",
-      "image": "http://www.1181northhillcrest.com/photos/1181hillcrest/large/1181NorthHillcrest001.jpg"
+      "image":"https://www.theviewpointcollection.com/wp-content/uploads/2019/07/1-5-e1620771529510.jpg"
     },
     {
       "id": 17,
@@ -209,7 +209,7 @@
       "name": "75 Hilltop Drive",
       "location": "Simple Hills",
       "price": "$60,000,000",
-      "numberprice": "600000000",
+      "numberprice": "60000000",
       "bed": "15",
       "bath": "20",
       "sqft": "35,500",
